@@ -32,7 +32,17 @@ public static void main(String args[])
 			   System.out.println("lowest price product:" +p3.pname+ "\n pcode:" +p3.pcode+"\nprice:"+p3.price);
 		   }
 		  
-			   
+			
+	
+	/**************************************OUTPUT********************************/
+	C:\Javaprg>javac Product.java
+
+C:\Javaprg>java Product
+lowest price product:LIFEBOY
+ pcode:103
+price:40
+
+C:\Javaprg>
 	
     
 }
