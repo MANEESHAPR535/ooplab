@@ -31,6 +31,8 @@ public static void main(String args[])
 		   {
 			   System.out.println("lowest price product:" +p3.pname+ "\n pcode:" +p3.pcode+"\nprice:"+p3.price);
 		   }
+          }
+          }  
 		  
 			
 	
@@ -45,7 +47,6 @@ price:40
 C:\Javaprg>
 	
     
-}
-}
+
 
 	
