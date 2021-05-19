@@ -28,3 +28,18 @@ public class Complex {
         return(temp);
     }
 }
+
+
+/****************************************OUTPUT********************************************/
+Microsoft Windows [Version 10.0.19041.928]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\hp>cd/
+
+C:\>cd javaprg
+
+C:\Javaprg>javac Complex.java
+
+C:\Javaprg>java Complex
+Sum = 5.0 + 9.5i
+C:\Javaprg>
