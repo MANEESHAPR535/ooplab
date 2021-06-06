@@ -48,7 +48,7 @@ class FunctionOverload
 {
      public static void main(String args[]) 
 	{
-		Scanner sc=new Scanner(System.in);
+	    Scanner sc=new Scanner(System.in);
 	    int choice;
 	    Overload b = new Overload();
 	   
@@ -73,3 +73,47 @@ class FunctionOverload
 	while(choice!=5);
 	}
 }
+
+
+
+/*******************************OUTPUT******************************/
+C:\Javaprg> javac Overload.java
+
+C:\Javaprg>java FunctionOverload
+
+Menu
+1.Rectangle
+2.Square
+3.Cirlce
+4.Exit
+Enter your choice:1
+Enter the length and breadth of rectangle
+4 5
+The area of the rectangle is 20.0
+
+Menu
+1.Rectangle
+2.Square
+3.Cirlce
+4.Exit
+Enter your choice:2
+Enter the side of square
+4
+The area of the square is 16.0
+
+Menu
+1.Rectangle
+2.Square
+3.Cirlce
+4.Exit
+Enter your choice:3
+Enter the radius of circle
+5
+the area of the circle is 78.5
+
+Menu
+1.Rectangle
+2.Square
+3.Cirlce
+4.Exit
+Enter your choice:
