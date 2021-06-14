@@ -33,28 +33,5 @@ public class ArrayElement
 }
 
 
-/*********************************OUTPUT**************************/
-C:\Users\hp>cd/
-
-C:\>cd javaprg
-
-C:\Javaprg>javac ArrayElement.java
-
-C:\Javaprg>java ArrayElement
-enter the size of the array
-4
-enter the eleent:
-
-10
-20
-30
-40
-enter the element want to search:
-20
-element found at position:1
-
-C:\Javaprg>
-
-
 
 	   
