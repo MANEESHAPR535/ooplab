@@ -19,8 +19,7 @@ class Person
 	}
 	void display()
 	{
-		System.out.println("Name\tGender\tAddress\t\tAge\n");
-		System.out.printf("%5s%9s%9s%10s\n",name,gender,address,age);
+		System.out.println("\nName:"+name+"\n Gender:"+gender+" \n Address:"+address+"\n Age:"+age);
 		
 	}
 	
@@ -58,10 +57,8 @@ class Teacher extends Employee
 	void display()
 	{
 		super.display();
-		System.out.println("\nEmpid\tCompanyName\tQualificarion\tSalary\tDept\tSubject");
-		System.out.println(empid+"\t"+cname+"\t\t"+qual+"\t \t"+salary+"\t"+dept+"\t"+sub);
-		System.out.println("\n \n");
-	
+		System.out.println("Empid:"+empid+"\n CompanyName:"+cname+"\n Qualificarion:"+qual+"\n Salary:"+salary+"\n Dept:"+dept+"\n Subject:"+sub+"\n");
+		System.out.println("------------------------------------");	
 	}
 	public static void main(String args[])
 	{
