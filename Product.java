@@ -36,15 +36,7 @@ public static void main(String args[])
 		  
 			
 	
-	/**************************************OUTPUT********************************/
-	C:\Javaprg>javac Product.java
-
-C:\Javaprg>java Product
-lowest price product:LIFEBOY
- pcode:103
-price:40
-
-C:\Javaprg>
+	
 	
     
 
