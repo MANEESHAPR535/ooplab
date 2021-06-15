@@ -68,25 +68,5 @@ class Matrix
 }
 
 
-/********************************OUTPUT*************************************/
-C:\Javaprg>javac matrix.java
 
-C:\Javaprg>java Matrix
-Enter the rows and coloumns of matrix
-3 2
-enter the element
-5 6
-4 7
-3 5
-enter the element
-8 5
-3 7
-1 3
-After addition:
-
-13 11
-7 14
-4 8
-
-C:\Javaprg>
 
