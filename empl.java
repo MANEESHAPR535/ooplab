@@ -34,8 +34,8 @@ class Teacher extends Employee
 	void display()
 	{
 		
-		System.out.printf("%5s%10s%10s%10s%10s%10s\n","empid", "name"," address","salary","dept","sub\n");
-		System.out.printf("%5d%10s%15s%10.0f%10s%20s\n",empid,name,address,salary,dept,subject);
+		System.out.printf("empid\t\tname\t\taddress\t\tsalary\t\tdept\t\tsub\n");
+		System.out.printf(empid+"\t\t"+name+"\t\t"+address+"\t\t"+salary+"\t\t"+dept+"\t\t"+subject+"\n\n");
 		
 	}
 	      public static void main(String args[])
