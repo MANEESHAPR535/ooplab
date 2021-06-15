@@ -50,28 +50,7 @@ public class studentdet
 
 
 
-/***************************OUTPUT***********************/
 
-
-C:\Javaprg>javac Studentdet.java
-
-C:\Javaprg>java studentdet
-Enter marks out of 20:
-17
-************************
-Details of students are:
-Name:MANEESHA PR
-Roll number:30
-Class Name:MCA
-os:85
-OOP:96
-BM:95
-total Mark of sub:276
-Sports Mark:17
-Accademic marks:293.0
-percentage:97.66667
-
-C:\Javaprg>
 
 
 
