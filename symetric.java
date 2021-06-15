@@ -58,32 +58,3 @@ class Symetric
 }
 
 
-/******************************OUTPUT*****************************/
-Microsoft Windows [Version 10.0.19041.985]
-(c) Microsoft Corporation. All rights reserved.
-
-C:\Users\hp>cd/
-
-C:\>cd javaprg
-
-C:\Javaprg> javac symetric.java
-
-C:\Javaprg>java Symetric
-Enter how many rows and coloumns
-3 3
-Enter the elements
-1 1 -1
-1 2 0
--1 0 5
-This is Symetric
-
-C:\Javaprg>java Symetric
-Enter how many rows and coloumns
-3 3
-Enter the elements
-1 2 3
-3 4 5
-3 5 0
-This is not symetric
-
-C:\Javaprg>
