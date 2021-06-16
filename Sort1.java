@@ -1,6 +1,6 @@
 public class Sort1
 {    
-    public static void main(String[] args)
+    public static void main(String args[])
 	{        
                
         int arr[] = new int [] {4,7,2,1,10};     
