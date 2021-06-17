@@ -44,7 +44,7 @@ class Symetric
 			System.out.println("This is Symetric");
 		}
 	}
-	public static void main(String ab[])
+	public static void main(String args[])
 	{
 		System.out.println("Enter number of rows and coloumns");
 		Scanner sc=new Scanner(System.in);
