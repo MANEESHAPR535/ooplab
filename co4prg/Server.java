@@ -4,7 +4,8 @@ import java.net.ServerSocket;
 
  class Server
  {
-    public static void main(String[] args) throws Exception {
+    public static void main(String args[]) throws Exception
+    {
 
         Socket socket=null;
         ServerSocket serversocket=null;
