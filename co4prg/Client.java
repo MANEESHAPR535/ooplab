@@ -3,7 +3,8 @@ import java.net.Socket;
 import java.util.Scanner;
  class Client
  {
-    public static void main(String[] args) {
+    public static void main(String args[]) 
+    {
 
         Socket socket=null;
         InputStreamReader inputstreamreader=null;
